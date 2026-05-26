@@ -60,7 +60,7 @@ The Machine Learning model achieved high accuracy on the test dataset.
 
 ### Dataset Output
 
-![Dataset Output](screenshots/dataset_output.png)
+![Dataset Output](screenshots/dataset_new.png)
 
 ---
 
@@ -78,10 +78,10 @@ The Machine Learning model achieved high accuracy on the test dataset.
 
 ### Accuracy Output
 
-![Accuracy](screenshots/accuracy_output.png)
+![Accuracy](screenshots/accuracy_new.png)
 
 ---
 
 ### Confusion Matrix
 
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](screenshots/confusion_new.png)
